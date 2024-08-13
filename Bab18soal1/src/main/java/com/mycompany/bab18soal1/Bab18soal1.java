@@ -18,3 +18,5 @@ public class Bab18soal1 {
     }
 }
 
+/* Blok try-catch digunakan untuk menangani exception yang mungkin terjadi.
+throw digunakan untuk secara eksplisit melempar exception sesuai dengan kondisi yang kita tentukan. */
